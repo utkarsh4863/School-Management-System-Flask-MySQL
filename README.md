@@ -145,9 +145,8 @@ http://127.0.0.1:5000/
 
 Add your UI screenshots here:
 
-![Login Page]https://github.com/utkarsh4863/School-Management-System-Flask-MySQL/blob/main/Dashboard%20image.png
-![Dashboard](screenshots/dashboard.png)
-
+![Dashboard](https://github.com/utkarsh4863/School-Management-System-Flask-MySQL/blob/main/Dashboard%20image.png)
+![Login Page](https://github.com/utkarsh4863/School-Management-System-Flask-MySQL/blob/main/Login%20page.png)
 ---
 
 ## 🤝 Contributing
